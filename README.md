@@ -68,9 +68,7 @@ You can view the live demo of the Easybank landing page [here](https://easybank-
 **Screenshots**
 
 ![Screenshot 2024-09-10 202826](https://github.com/user-attachments/assets/54526cb6-786f-4bbb-ab3a-bef9c80a04f3)
-![Screenshot 2024-09-10 202845](https://github.com/user-attachments/assets/d3a43f35-354e-4f26-89b2-e6ba1cfeb795)
-![Screenshot 2024-09-10 202856](https://github.com/user-attachments/assets/52d14d76-555c-4be5-ae6d-df0a3458628b)
-![Screenshot 2024-09-10 202909](https://github.com/user-attachments/assets/1017f80d-9f82-4bc4-b6a2-f771b21f873e)
+
 
 
 **Conclusion**
